@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verloren-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Verloren im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-im-regen/) |
+| **Get License** | [Official Music Licensing for Verloren im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verloren-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tropfen auf der Scheibe, fahr' mit dir durch die Nacht
+> Dein Lächeln so böse, hat mich um den Verstand gebracht
+> Rauch in der Luft und dein Duft auf mei'm Hemd
+> Wir sind uns so nah, nichts an dir ist mir fremd
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
