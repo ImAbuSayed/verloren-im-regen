@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verloren im Regen
+
+This log tracks the cryptographic history and versioning for the song **Verloren im Regen** (verloren-im-regen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:41:17.094646 | `v1` | `9373722c0ee66ce79383b8e9a390312f2f7c490071ae946fee08c7d3b87abef9` | `64f4dbe6ae738dc764ef5d233d539baa72b5428e54db109966a4c9becf3f706c` | `2026-06-27_verloren-im-regen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
